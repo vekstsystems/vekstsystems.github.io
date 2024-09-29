@@ -161,8 +161,8 @@ footer {
     #about {
         width: 100%;
         padding: 2em;
+        text-align: justify;
         box-sizing: border-box;
-        
     }
     #services {
         width: 100%;
@@ -174,5 +174,6 @@ footer {
     }
     .service-card {
         width: 80vw;
+        text-align: center;
     }
 }
